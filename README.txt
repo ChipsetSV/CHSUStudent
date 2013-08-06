@@ -1,0 +1,1 @@
+CHSUStudent - application for view schedule in CHSU
